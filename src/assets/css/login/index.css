@@ -1,0 +1,11 @@
+/* styles.css */
+
+.cardContainer {
+    display: flex;
+    margin: 20px;
+}
+
+.cardTitle {
+    font-size: 14px;
+    color: #333;
+}
